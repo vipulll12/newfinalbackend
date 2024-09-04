@@ -46,3 +46,4 @@ config/local.json
 
 # S3-specific ignore (if applicable)
 .aws/
+.env
